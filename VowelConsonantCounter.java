@@ -48,3 +48,13 @@ public class VowelConsonantCounter {
         sc.close();
     }
 }
+
+/*
+Input :
+Enter a string: anush
+
+Output : 
+Number of Vowels: 2
+Number of Consonants: 3
+
+*/
